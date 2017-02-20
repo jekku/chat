@@ -4,6 +4,8 @@
 /deps
 /*.ez
 
+/web/static/vendor
+
 # Generated on crash by the VM
 erl_crash.dump
 
