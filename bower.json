@@ -1,0 +1,17 @@
+{
+  "name": "chat",
+  "description": "",
+  "main": "",
+  "authors": [
+    "jekku <jekripreclaroorlina@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/jekku/chat",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
