@@ -1,1 +1,18 @@
 /* This file is for your main application css. */
+body {
+  background: #c0c0c0
+}
+
+.form-box {
+  padding-left: 10px;
+  padding-right: 20px;
+}
+
+.messages {
+  border-radius: 10px;
+  opacity: 0.6;
+}
+
+.messaging {
+  border-radius: 15px;
+}
